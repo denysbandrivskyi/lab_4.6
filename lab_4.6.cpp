@@ -1,3 +1,9 @@
+﻿// lab_4.6.cpp
+// < Бандрівський Денис Юрійович >
+// Лабораторна робота № 4.6
+// Вкладені цикли
+// Варіант 1
+
 #include <iostream>
 #include <cmath>
 using namespace std;
